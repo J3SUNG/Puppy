@@ -31,7 +31,7 @@ const Photo = () => {
       </article>
 
       <section className="clearfix">
-        <img src={photo_mang_1} className="img_w" />
+        <img src={photo_mang_1} className="img_w" alt="mangchi" />
         <h2 className="h2_s">
           {" "}
           <em>우리집으로 온 망치 </em>
@@ -54,7 +54,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_mang_2} className="img_w" />
+        <img src={photo_mang_2} className="img_w" alt="mangchi" />
         <h2 className="h2_s"> 진격의 망치 </h2>
         <p className="p_s">
           {" "}
@@ -66,7 +66,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_mang_3} className="img_w" />
+        <img src={photo_mang_3} className="img_w" alt="mangchi" />
         <h2 className="h2_s"> 물개 망치 </h2>
         <p className="p_s">
           {" "}
@@ -78,7 +78,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_mang_4} className="img_w" />
+        <img src={photo_mang_4} className="img_w" alt="mangchi" />
         <h2 className="h2_s"> 이불 속 망치 </h2>
         <p className="p_s">
           {" "}
@@ -95,7 +95,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_mang_5} className="img_w" />
+        <img src={photo_mang_5} className="img_w" alt="mangchi" />
         <h2 className="h2_s"> 홀딱 젖은 망치 </h2>
         <p className="p_s">
           {" "}
@@ -110,7 +110,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_bori_1} className="img_w" />
+        <img src={photo_bori_1} className="img_w" alt="bori" />
         <h2 className="h2_s">
           {" "}
           <em>우리집으로 온 보리</em>{" "}
@@ -140,7 +140,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_bori_2} className="img_h" />
+        <img src={photo_bori_2} className="img_h" alt="bori" />
         <h2 className="h2_s"> 보리와 망치의 다툼 </h2>
         <p className="p_s">
           {" "}
@@ -155,7 +155,7 @@ const Photo = () => {
       <br />
 
       <section className="clearfix">
-        <img src={photo_bori_3} className="img_h" />
+        <img src={photo_bori_3} className="img_h" alt="bori" />
         <h2 className="h2_s"> 보리와 망치의 산책 </h2>
         <p className="p_s">
           {" "}

@@ -9,8 +9,8 @@ function Navigation() {
     <div>
       <header>
         <Link to="/" target="_top">
-          <img src={logo1} className="logo" title="홈" />
-          <img src={logo2} className="logo" title="홈" />
+          <img src={logo1} className="logo" title="홈" alt="logo" />
+          <img src={logo2} className="logo" title="홈" alt="logo" />
         </Link>
         <br />
       </header>

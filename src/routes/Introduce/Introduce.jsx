@@ -18,7 +18,12 @@ const Introduce = () => {
         <a href={mang_1} className="introduce_img" target="Mangchi">
           클릭!
         </a>
-        <iframe src={mang_2} className="iframe" name="Mangchi"></iframe>
+        <iframe
+          src={mang_2}
+          className="iframe"
+          title="Mangchi"
+          name="Mangchi"
+        ></iframe>
         <ul className="ul_list">
           <li className="li_list">
             이름 : <strong>망치</strong>
@@ -41,7 +46,12 @@ const Introduce = () => {
         <a href={bori_1} className="introduce_img" target="Boli">
           클릭!
         </a>
-        <iframe src={bori_2} className="iframe" name="Boli"></iframe>
+        <iframe
+          src={bori_2}
+          className="iframe"
+          title="Bori"
+          name="Boli"
+        ></iframe>
         <ul className="ul_list">
           <li className="li_list">
             이름 : <strong>보리</strong>{" "}

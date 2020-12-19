@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route, Link } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import Home from "./routes/Home/Home.jsx";
 import Introduce from "./routes/Introduce/Introduce.jsx";
 import Photo from "./routes/Photo/Photo.jsx";

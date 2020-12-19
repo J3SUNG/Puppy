@@ -1,0 +1,51 @@
+.footer {
+  min-height: 100%;
+  width: 100%;
+  height: 40px;
+  background: rgb(230, 230, 230);
+  text-align: center;
+  font-size: 15px;
+  margin-top: 50px;
+}
+.header {
+  text-align: center;
+  font-family: 함초롱돋움;
+}
+.logo {
+  height: 80px;
+  display: block;
+  margin: auto;
+}
+.table {
+  border-collapse: collapse;
+  width: 70%;
+  font-size: 20px;
+  margin: auto;
+}
+td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+}
+.ul_list {
+  margin-left: 24% !important;
+  overflow: visible !important;
+  list-style-type: disc;
+  font-size: 20px;
+}
+.li_list {
+  margin-bottom: 25px !important;
+  margin-left: 450px;
+  float: initial !important;
+}
+.iframe {
+  height: 500px;
+  float: left;
+  border: none;
+  margin-left: 30%;
+}
+
+.introduce_img {
+  height: 500px;
+  font-size: 20px;
+}
